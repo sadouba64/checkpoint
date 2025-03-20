@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Nosifer&display=swap');
+.body{
+    background-color: wheat;
+}
+.h1{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 2.5rem;
+    text-shadow: 0 0 0 black;
+    text-decoration: underline;
+    font-family: "Boldonse", system-ui;
+}
+.home{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: chocolate;
+}
+.about{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+    
+}
+.work{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: coral;
+}
+.header{
+    text-align: center;
+    text-transform: uppercase;
+}
+.para{
+    color: black;
+}
+.bleu{
+    text-align: center;
+    color: black;
+}
+.rouge{
+    text-align: center;
+    color: black;
+}
+.vert{
+    text-align: center;
+    color: black;
+}
